@@ -18,3 +18,12 @@ Intermediate English language skills
 Graduated "HTML developer" on the educational Geek Brains portal
 
 Completed "HTML/CSS" courses on the educational Codecademy portal
+
+## Technical skills:
+- HTML/HTML5
+- CSS/CSS3
+- Bootstrap 3/4
+- Adobe Photoshop, Adobe Illustrator
+- BEM methodology
+- experience in connecting and customizing third-party plugins
+- experience in jQuery, basic skills in Java Script
