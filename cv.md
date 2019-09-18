@@ -83,8 +83,8 @@ Freelance experience in frontend development since January, 2019
 
 Here are some of my freelance projects:
 
-[http://ckobeleva.ru/VipPol/](http://ckobeleva.ru/VipPol/)
+[http://ckobeleva.ru/VipPol](http://ckobeleva.ru/VipPol/)
 
 [http://ckobeleva.ru/seven-sky/main.html](http://ckobeleva.ru/seven-sky/main.html)
 
-[http://ckobeleva.ru/seven-sky/main.html](http://ckobeleva.ru/seven-sky/main.html)
+[http://ckobeleva.ru/halal](http://ckobeleva.ru/halal/)
